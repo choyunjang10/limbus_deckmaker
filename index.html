@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>림버스 컴퍼니 덱 생성기 · 단빵숲 팬메이드</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🃏 인격 덱 생성기</h1>
+    <p class="subtitle">원하는 키워드를 고르면, 12수감자 각각에서 가장 어울리는 인격 하나씩을 뽑아 덱을 만들어드려요.</p>
+    <p class="disclaimer">
+      ⚠️ 이 데이터는 <strong>실시간 크롤링 데이터가 아니라</strong> 데모용 예시 데이터입니다.
+      실제 게임 밸런스/키워드와 다를 수 있으니, <code>data.json</code>을 직접 수정해서 정확도를 높여보세요.
+    </p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <h2>1. 원하는 키워드 선택</h2>
+      <div id="keyword-list" class="chip-list"></div>
+
+      <div class="button-row">
+        <button id="generate-btn">✨ 덱 생성하기</button>
+        <button id="random-btn" class="secondary">🎲 완전 랜덤 덱</button>
+      </div>
+    </section>
+
+    <section class="result">
+      <h2>2. 생성된 덱 (12인격)</h2>
+      <div id="score-summary" class="score-summary"></div>
+      <div id="deck-grid" class="deck-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>데이터 출처: 사용자 제작 · 원본 정보 사이트: <a href="https://baslimbus.info/identity" target="_blank" rel="noopener">baslimbus.info</a> (해당 사이트와 무관한 개인 팬메이드 도구입니다)</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
