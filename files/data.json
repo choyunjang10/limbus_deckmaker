@@ -1,0 +1,61 @@
+[
+  { "id": 1,  "sinner": "이상",     "name": "회사원 이상",         "rarity": 1, "keywords": ["충전", "붕괴"] },
+  { "id": 2,  "sinner": "이상",     "name": "고려대상 이상",       "rarity": 2, "keywords": ["충전", "기품"] },
+  { "id": 3,  "sinner": "이상",     "name": "우비호 이상",         "rarity": 3, "keywords": ["충전", "화상"] },
+  { "id": 4,  "sinner": "이상",     "name": "빙과 클럽 이상",      "rarity": 2, "keywords": ["침몰", "충전"] },
+
+  { "id": 5,  "sinner": "파우스트", "name": "환경미화원 파우스트", "rarity": 1, "keywords": ["화상", "붕괴"] },
+  { "id": 6,  "sinner": "파우스트", "name": "탐구자 파우스트",     "rarity": 2, "keywords": ["화상", "매혹"] },
+  { "id": 7,  "sinner": "파우스트", "name": "숙청자 파우스트",     "rarity": 3, "keywords": ["화상", "진동"] },
+  { "id": 8,  "sinner": "파우스트", "name": "K콘 파우스트",        "rarity": 2, "keywords": ["매혹", "화상"] },
+
+  { "id": 9,  "sinner": "돈키호테", "name": "배달원 돈키호테",     "rarity": 1, "keywords": ["진동", "기품"] },
+  { "id": 10, "sinner": "돈키호테", "name": "형사 돈키호테",       "rarity": 2, "keywords": ["진동", "붕괴"] },
+  { "id": 11, "sinner": "돈키호테", "name": "순례자 돈키호테",     "rarity": 3, "keywords": ["기품", "진동"] },
+  { "id": 12, "sinner": "돈키호테", "name": "몰 소속 돈키호테",    "rarity": 2, "keywords": ["진동", "매혹"] },
+
+  { "id": 13, "sinner": "료슈",     "name": "쿠단 료슈",           "rarity": 1, "keywords": ["출혈", "붕괴"] },
+  { "id": 14, "sinner": "료슈",     "name": "미아 료슈",           "rarity": 2, "keywords": ["출혈", "충전"] },
+  { "id": 15, "sinner": "료슈",     "name": "정찰대 료슈",         "rarity": 3, "keywords": ["출혈", "기품"] },
+  { "id": 16, "sinner": "료슈",     "name": "축제 료슈",           "rarity": 2, "keywords": ["출혈", "화상"] },
+
+  { "id": 17, "sinner": "뫼르소",   "name": "무직자 뫼르소",       "rarity": 1, "keywords": ["진동", "침몰"] },
+  { "id": 18, "sinner": "뫼르소",   "name": "이방인 뫼르소",       "rarity": 2, "keywords": ["진동", "붕괴"] },
+  { "id": 19, "sinner": "뫼르소",   "name": "선원 뫼르소",         "rarity": 3, "keywords": ["침몰", "진동"] },
+  { "id": 20, "sinner": "뫼르소",   "name": "아지트 뫼르소",       "rarity": 2, "keywords": ["진동", "출혈"] },
+
+  { "id": 21, "sinner": "홍루",     "name": "빙과점 홍루",         "rarity": 1, "keywords": ["출혈", "매혹"] },
+  { "id": 22, "sinner": "홍루",     "name": "고서점 홍루",         "rarity": 2, "keywords": ["출혈", "침몰"] },
+  { "id": 23, "sinner": "홍루",     "name": "몰 소속 홍루",        "rarity": 3, "keywords": ["출혈", "붕괴"] },
+  { "id": 24, "sinner": "홍루",     "name": "축제 홍루",           "rarity": 2, "keywords": ["매혹", "출혈"] },
+
+  { "id": 25, "sinner": "히스클리프", "name": "노동자 히스클리프", "rarity": 1, "keywords": ["기품", "붕괴"] },
+  { "id": 26, "sinner": "히스클리프", "name": "노숙자 히스클리프", "rarity": 2, "keywords": ["기품", "출혈"] },
+  { "id": 27, "sinner": "히스클리프", "name": "복서 히스클리프",   "rarity": 3, "keywords": ["기품", "화상"] },
+  { "id": 28, "sinner": "히스클리프", "name": "몰 소속 히스클리프", "rarity": 2, "keywords": ["기품", "충전"] },
+
+  { "id": 29, "sinner": "이스마엘", "name": "선원 이스마엘",       "rarity": 1, "keywords": ["침몰", "진동"] },
+  { "id": 30, "sinner": "이스마엘", "name": "숙련 항해사 이스마엘", "rarity": 2, "keywords": ["침몰", "붕괴"] },
+  { "id": 31, "sinner": "이스마엘", "name": "몰 소속 이스마엘",    "rarity": 3, "keywords": ["침몰", "매혹"] },
+  { "id": 32, "sinner": "이스마엘", "name": "축제 이스마엘",       "rarity": 2, "keywords": ["침몰", "기품"] },
+
+  { "id": 33, "sinner": "로쟈",     "name": "대학생 로쟈",         "rarity": 1, "keywords": ["붕괴", "출혈"] },
+  { "id": 34, "sinner": "로쟈",     "name": "전당포 로쟈",         "rarity": 2, "keywords": ["붕괴", "침몰"] },
+  { "id": 35, "sinner": "로쟈",     "name": "속죄자 로쟈",         "rarity": 3, "keywords": ["붕괴", "진동"] },
+  { "id": 36, "sinner": "로쟈",     "name": "몰 소속 로쟈",        "rarity": 2, "keywords": ["붕괴", "매혹"] },
+
+  { "id": 37, "sinner": "싱클레어", "name": "노동자 싱클레어",     "rarity": 1, "keywords": ["화상", "붕괴"] },
+  { "id": 38, "sinner": "싱클레어", "name": "고시생 싱클레어",     "rarity": 2, "keywords": ["화상", "출혈"] },
+  { "id": 39, "sinner": "싱클레어", "name": "탐정 싱클레어",       "rarity": 3, "keywords": ["화상", "충전"] },
+  { "id": 40, "sinner": "싱클레어", "name": "축제 싱클레어",       "rarity": 2, "keywords": ["화상", "매혹"] },
+
+  { "id": 41, "sinner": "오티스",   "name": "정비공 오티스",       "rarity": 1, "keywords": ["기품", "충전"] },
+  { "id": 42, "sinner": "오티스",   "name": "장의사 오티스",       "rarity": 2, "keywords": ["기품", "붕괴"] },
+  { "id": 43, "sinner": "오티스",   "name": "몰 소속 오티스",      "rarity": 3, "keywords": ["기품", "매혹"] },
+  { "id": 44, "sinner": "오티스",   "name": "축제 오티스",         "rarity": 2, "keywords": ["기품", "화상"] },
+
+  { "id": 45, "sinner": "그레고르", "name": "외판원 그레고르",     "rarity": 1, "keywords": ["충전", "붕괴"] },
+  { "id": 46, "sinner": "그레고르", "name": "그림자 그레고르",     "rarity": 2, "keywords": ["충전", "진동"] },
+  { "id": 47, "sinner": "그레고르", "name": "새벽 사무소 대표 그레고르", "rarity": 3, "keywords": ["충전", "기품"] },
+  { "id": 48, "sinner": "그레고르", "name": "몰 소속 그레고르",    "rarity": 2, "keywords": ["충전", "출혈"] }
+]
